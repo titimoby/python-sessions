@@ -1,5 +1,9 @@
 This exercise comes from https://www.codingame.com/ide/puzzle/retro-typewriter-art
 
+See original instructions below.
+To help you, use the answer.py that contains several ways to test your code.
+
+-- Original instructions --
 Back in the day, people had fun turning "recipes" into surprise images using typewriters.
 
 Use the provided recipe to create a recognizable image.
@@ -39,4 +43,4 @@ https://asciiart.cc
 https://loriemerson.net/2013/01/18/d-i-y-typewriter-art/
 https://www.youtube.com/watch?v=kyK5WvpFxqo
 
-original work is License CC BY-SA 2.0
+-- Original work under License CC BY-SA 2.0 --
